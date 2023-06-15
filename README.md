@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Hubert 👋
+
+- 🔭 I’m currently working on <b><a href="https://github.com/huga721/Forum-app">Forum application</a></b>
+- 🌱 I’m currently learning <b>Micorservices Architecture</b>
+- 🎓 Student of: <b>Lubelska Akademia WSEI Lublin, Poland</b>
+- 📝 My projects: <a href="https://github.com/huga721/to-do-app">TODO application</a>, <a href="https://github.com/huga721/Forum-app">Forum application</a> 
 
 <!--
-**huga721/huga721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
