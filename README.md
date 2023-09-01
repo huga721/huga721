@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on <b><a href="https://github.com/huga721/marketplace-app-microservices">Forum application</a></b>
 - 🌱 I’m currently learning <b>Hexagonal Architecture</b>
 - 🎓 Student of: <b>Lubelska Akademia WSEI Lublin, Poland</b>
-- 📝 My projects: <a href="https://github.com/huga721/to-do-app">TODO application</a>, <a href="https://github.com/huga721/Forum-app">Forum application</a>, <a href="https://github.com/huga721/marketplace-app-microservices">Marketplace microservices application</a
+- 📝 My projects: <a href="https://github.com/huga721/to-do-app">TODO application</a>, <a href="https://github.com/huga721/Forum-app">Forum application</a>, <a href="https://github.com/huga721/marketplace-app-microservices">Marketplace microservices application</a>
 
 <!--
 Here are some ideas to get you started:
